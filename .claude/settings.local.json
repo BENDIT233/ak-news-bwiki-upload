@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cd:*)",
+      "Write",
+      "Bash(git add:*)"
+    ]
+  }
+}

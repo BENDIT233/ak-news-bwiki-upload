@@ -1,0 +1,8 @@
+# 敏感信息
+.SESSDATA
+*.sessdata
+
+# 临时文件
+*.tmp
+*.log
+.DS_Store
