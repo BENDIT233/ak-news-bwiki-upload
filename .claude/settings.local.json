@@ -4,7 +4,10 @@
       "Bash(cd:*)",
       "Write",
       "Bash(git:*)",
-      "Bash(git remote add origin https://github.com/BENDIT233/ak-news-bwiki-upload.git:*)"
+      "Bash(mv:*)",
+      "Bash(rmdir:*)",
+      "Bash(cmd:*)",
+      "Bash(cmd /c:*)"
     ]
   }
 }
